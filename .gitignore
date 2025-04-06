@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+**/venv/
+
+# Ignore Node modules
+node_modules/
+**/node_modules/
+
+# Ignore build output
+build/
+dist/
